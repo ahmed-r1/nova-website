@@ -40,7 +40,7 @@ Then visit `http://localhost:8000`.
 
 ## Live Demo
 
-Hosted on GitHub Pages: `https://ahmed-r1.github.io/nova-website/`
+Hosted on Render: `https://nova-t1ad.onrender.com/`
 
 ## License
 
